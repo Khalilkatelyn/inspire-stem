@@ -2,12 +2,10 @@
 #date :21/02/2024
 #name : katelyn mwangi
 
-a =int(input("enter the constant"))
-n =int(input("enter the term"))
-d =int(input("enter the difference"))
+a =int(input("enter the first tern"))
+n =int(input("enter the number of terms"))
+d =int(input("enter the common difference"))
 
-b = (a+(n - 1))
+n_term = (a+ d (n - 1))
+print("the nth term of thr sequence is :",n_term)
 
-g_1 =(b)
-
-print("the solution of the ap:",g_1)
