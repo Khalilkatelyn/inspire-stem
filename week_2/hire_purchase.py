@@ -3,9 +3,13 @@
 #name :katelyn mwangi
 
 mi = input("total number of monthly installments")
-d = input("the total deposit")
-hp = input("total hire purchase")
+d = input("the initial deposit")
+it = input("enter the time in months")
 
-hp = mi + d
+h =(t * i)
+print("total monthly installments is :" , h)
 
-print("enter the total hire purchse price :, hp ")
+a = h + d
+print ("hire purchase price is : " , a )
+
+

@@ -11,10 +11,9 @@ float : decimal / FloatingPoint
 pi = 3.142
 
 #characters : alphanumeric ,0-9
-#special characters : !,@,#,$,%
+#special characters : !,@,#,$,%, chinese alphabet
 
 grade = 'A' #use single quotation marks to 
-
 
 #strings: a group of characters
 
