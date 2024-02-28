@@ -2,10 +2,34 @@
 #date : 25/02/2024
 #name : katelyn m
 
-num =input("enter a number to find the factorial :" ,)
+factorial_nums = 1
+max_value = int(input("enter the max value :"))
 
-count = 1
-for i in range(1,num + 1) : 
-    count *= i
+for x in range(1, max_value + 1) :
+    factorial_nums = factorial_nums * x
+    print(factorial_nums)
 
-print(count)
+for i in range (0,20,2) :
+    print(x)
+
+for i in range (0,20,2) :
+    print(x)
+
+for i in range (0,20,2) :
+    print(x)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

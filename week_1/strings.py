@@ -12,6 +12,8 @@ print(city[4])
 print(city[-1])
 print(city[-2])#i
 
+#converts to uppercase
+
 
 print("\n\n")#prints a new line
 print(city.upper())
@@ -47,7 +49,34 @@ print(subject.split(":"))
 age = 30
 height =1.2
 
-print("i am {} years old and {} meters tall" ,format(age),format(height))
+print("i am {0} years old and {1} meters tall" ,format(age),(height))
+
+#printing a string
+
+activity = "dancing"
+print("my hobby is %s" %(activity))
+
+#printng an integer
+
+height = 1.23
+print("my height is %5.3f" % (height))
+
+age = 17
+print("my age is %d" %(age))
+
+name ="kate m"
+print(len(name))
+
+print(f"my full name is {name}")
+
+school = "engineering"
+course = "electrical"
+
+print("i am studying {course}  in the school of{school}" .format(course ="medicine",school="human sciences"))
+
+
+
+
 
 
 
