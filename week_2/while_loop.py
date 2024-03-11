@@ -7,7 +7,7 @@
 
 if x == 6 :
   
-x = x + 1
+(x)= x + 1
 print(x)
 
 x = 2 #integer
