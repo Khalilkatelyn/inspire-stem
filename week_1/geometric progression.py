@@ -9,7 +9,8 @@ n = int(input("enter the number of terms"))
 
 n_term = (a *r**(n-1) )
 
-print
+print("the nth term of the sequence is:",(n_term))
+       
 
 
 
